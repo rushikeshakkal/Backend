@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend development for web dev",
+  "keywords": [
+    "javascript",
+    "Backedn"
+  ],
+  "homepage": "https://github.com/rushikeshakkal/Backend#readme",
+  "bugs": {
+    "url": "https://github.com/rushikeshakkal/Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushikeshakkal/Backend.git"
+  },
+  "license": "ISC",
+  "author": "Rushikesh Akkal",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
